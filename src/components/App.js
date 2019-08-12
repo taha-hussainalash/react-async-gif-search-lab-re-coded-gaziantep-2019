@@ -1,4 +1,4 @@
-import React from 'react'
+npimport React from 'react'
 import GifListContainer from '../containers/GifListContainer'
 import NavBar from './NavBar'
 
